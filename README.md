@@ -1,36 +1,32 @@
-<h2 align="left">Hi 👋! My name is Marcos Dias Sepini and I'm a beginner back/front-end programmer  from Brazil 🇧🇷</h2>
+<img align="left" height="40" src="https://br.freepik.com/fotos-vetores-gratis/bandeira-brasil"  />
+
+###
+
+<img align="left" height="40" src="https://pt.wikipedia.org/wiki/Ficheiro:Flag_of_the_United_States.svg"  />
+
+###
+
+<h2 align="left">Marcos Dias Sepini, 15yo, beginner programmer</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="34" height="20" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="34" height="20" alt="gmail logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
 
-<h2 align="left">Basic knowledge</h2>
-
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">Learning</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <a href="https://www.instagram.com/marcos.sepinii" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/3/?ogbl#inbox?compose=DmwnWstxRPzxcZltWGScrZvJhgbKpBMRdCKhwJVVQjLTVTcPKwLpbQbdrpfqKQHBDJXQLlCPhNkL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
