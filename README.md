@@ -8,11 +8,11 @@
 
 ###
 
-<h4 align="left">Student of IFSULDEMINAS INFORMATICA - MACHADO MG</h4>
+<h4 align="center">Student of IFSULDEMINAS INFORMATICA - MACHADO MG</h4>
 
 ###
 
-<h4 align="center">Learning:</h4>
+<h4 align="center">Laerning:</h4>
 
 ###
 
