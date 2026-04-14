@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">Languages I´m learning:</h3>
+<h3 align="left">Technologies I´m learning:</h3>
 
 ###
 
